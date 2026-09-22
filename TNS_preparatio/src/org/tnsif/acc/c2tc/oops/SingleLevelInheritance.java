@@ -1,4 +1,4 @@
-package org.tns.acc.c2tc.opps;
+package org.tnsif.acc.c2tc.oops;
 //parent class
 class Course{
 	String courseName ="Java Progaraming";

@@ -1,4 +1,4 @@
-package constructordemo;
+package org.tnsif.acc.c2tc.constructordemo;
 
 class User1
 {
