@@ -1,4 +1,4 @@
-package org.tnsif.acc.tnsif.interfacedemo;
+package org.tnsif.acc.c2tc.interfacedemo;
 
 interface Vehicle{
 	void start();
